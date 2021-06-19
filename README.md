@@ -25,6 +25,9 @@ In project1, I inplemented several machine learning methods including
     * MLP
 You can refer to project1 folder which including the source code (partly handwrote) to learn some concepts about machine learning. I also give some experience and conclusion from completing this porject in my report.
 
+## Visualization
+Part of the codes I used for visualization (GradCAM, guided backpropagation, TSNE, PCA) is provided. These are just example codes.
+
 ## Ackowledgements
 I give my sincerest appreciation to Prof. Zhang, Dr. Cheng and Dr. Ren for giving me this chance to contribute my efforts in the work of machine learning. I also thank them for their generous help.
 ## Contact
